@@ -41,7 +41,3 @@ This application efficiently handles large media files while providing smooth pl
 | Language | Java |
 
 ---
-
-## 📦 Core APIs
-
-### Upload Media
